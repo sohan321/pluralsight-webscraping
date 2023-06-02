@@ -1,1 +1,1 @@
-1. Download Python #(latest version)
+#1. Download Python (latest version)
