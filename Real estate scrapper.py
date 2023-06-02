@@ -105,3 +105,4 @@ with open('apartments_listings.csv', 'w', newline='', encoding='utf-8') as csvfi
         time.sleep(5)
         page_count += 1
         print("Next Page")
+        #test
