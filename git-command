@@ -1,0 +1,9 @@
+to add files:
+git add .
+
+to commit changes
+git commit -m'change message'
+
+
+to pus changes to github:
+git push
